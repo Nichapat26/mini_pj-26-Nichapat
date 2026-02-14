@@ -1,13 +1,5 @@
 import React, { useState } from 'react';
-import {
-  View,
-  Text,
-  StyleSheet,
-  Image,
-  TouchableOpacity,
-  ScrollView,
-  TextInput
-} from 'react-native';
+import {View,Text,StyleSheet,Image,TouchableOpacity,ScrollView,TextInput} from 'react-native';
 
 import { FontAwesome6 } from '@expo/vector-icons';
 
